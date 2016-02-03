@@ -1,7 +1,11 @@
 {
     "name": "ews-api",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "description": "ews-api",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/divramod/ews-api.git"
+    },
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
